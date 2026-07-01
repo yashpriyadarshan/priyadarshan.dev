@@ -1,18 +1,27 @@
-# React + Vite
+### Yash Priyadarshan
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Backend engineer focused on Java, distributed systems, microservices, and AI-powered applications.
 
-Currently, two official plugins are available:
+Currently building **[enterpise-llm-gateway](https://github.com/yashpriyadarshan/enterprise-llm-gateway)**, Enterprise-grade AI Gateway that centralizes, secures, monitors, and optimizes access to multiple LLM providers, while exploring developer tooling, LLM applications, and open-source software.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Tools
 
-## React Compiler
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,redis,react,nodejs,js,python,git,github,linux,maven" />
+</p>
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+### Currently Building
 
-Note: This will impact Vite dev & build performances.
+- [enterpise-llm-gateway](https://github.com/yashpriyadarshan/enterprise-llm-gateway) — Enterprise-grade AI Gateway that centralizes, secures, monitors, and optimizes access to multiple LLM providers through a unified API with authentication, usage tracking, cost control, and intelligent request routing.
+- [D.U.M.B.](https://github.com/yashpriyadarshan/DUMB) — Deterministic AI coding assistant focused on developer control and predictable tool execution.
 
-## Expanding the ESLint configuration
+### Recent Projects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [BreakingJob](https://github.com/yashpriyadarshan/BreakingJob)
+- [GitHub Profile Explorer](https://github.com/yashpriyadarshan/github-profile-explorer)
+
+### Connect
+
+- LinkedIn: [linkedin.com/in/yash-priyadarshan](https://linkedin.com/in/yash-priyadarshan)
+- GitHub: [github.com/yashpriyadarshan](https://github.com/yashpriyadarshan)
+- Email: yashpriyadarshan@gmail.com
